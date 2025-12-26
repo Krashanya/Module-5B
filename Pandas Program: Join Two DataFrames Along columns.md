@@ -1,4 +1,4 @@
-<img width="1071" height="512" alt="image" src="https://github.com/user-attachments/assets/be29bc4e-0388-4a9c-a1c2-1df270983702" /># 🧪 Pandas Program: Join Two DataFrames Along Rows
+# 🧪 Pandas Program: Join Two DataFrames Along columns
 
 ## 🎯 AIM
 
