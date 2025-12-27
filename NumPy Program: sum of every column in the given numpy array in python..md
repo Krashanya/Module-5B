@@ -1,4 +1,4 @@
-# # NumPy Program: 
+# # NumPy Program: sum of every column in the given numpy array in python.
 ## 🎯 Aim
 Create a numpy program to calculate the sum of every column in the given numpy array in python.
 ## 🧠 Algorithm
